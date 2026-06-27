@@ -3,22 +3,15 @@
 // ============================================================
 
 export const personal = {
-  name: 'Ogbonna Henry Tochukwu',         // ← change this
-  handle: 'HenryWeb3Dev',          // ← change this
+  name: 'Henry Tochi',         
+  handle: 'HenryWeb3Dev',         
   title: 'Web3 Developer · Smart Contract Engineer · Full Stack Blockchain Builder',
   tagline: 'I build secure decentralised applications, smart contracts, and modern Web3 experiences that push the boundaries of what\'s possible on-chain.',
   location: 'Nigeria 🇳🇬',
   available: true,
-  email: 'ogbonna1109@gamil.com',        // ← change this
+  email: 'ogbonna1109@gamil.com',        
 
-  // ─── PROFILE PICTURE ───────────────────────────────────────
-  // Option 1 – use a URL (hosted image):
-  //   profileImage: 'https://example.com/your-photo.jpg',
-  //
-  // Option 2 – drop your photo in /public/profile.jpg and use:
-  //   profileImage: '/profile.jpg',
-  //
-  // Option 3 – leave null to show the placeholder avatar
+  //My profile pic
   profileImage: '/profile.jpg.jpeg',
 
   // Social links — replace USERNAME / NUMBER
@@ -26,7 +19,7 @@ export const personal = {
     github:    'https://github.com/ogbonna1109',
     linkedin:  'https://linkedin.com/in/USERNAME',
     twitter:   'https://x.com/HenryWeb3Dev',
-    instagram: 'https://instagram.com/USERNAME',
+    instagram: 'https://instagram.com/henry_tochi',
     whatsapp:  'https://wa.me/+2349063231247',
   },
 
