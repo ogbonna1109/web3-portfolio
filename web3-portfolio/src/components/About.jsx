@@ -36,21 +36,21 @@ export default function About() {
           {/* Text column */}
           <div className="space-y-5">
             <p style={{ color: '#94a3b8', lineHeight: 1.85, fontSize: 16 }}>
-              I'm a passionate Web3 developer with{' '}
-              <strong style={{ color: '#00f5ff' }}>1+ year of hands-on experience</strong>{' '}
-              building decentralised applications that bridge the gap between traditional web
-              and blockchain technology.
+              I started my career as a traditional software engineer — writing APIs,
+              shipping frontends, solving real-world problems with code. Then I discovered
+              blockchain, and everything changed.
             </p>
             <p style={{ color: '#94a3b8', lineHeight: 1.85, fontSize: 16 }}>
-              My journey started with a deep curiosity about how smart contracts could
-              reshape finance, ownership, and trust on the internet. Since then I've been
-              obsessed with building secure, user-friendly dApps that real people actually use.
+                I moved into Web3 because I believe decentralisation is the most significant
+                shift in software since the internet itself. The idea that code can replace
+                trust, that ownership can live on-chain, that anyone anywhere can participate
+                in open financial systems — that pulled me in completely.
             </p>
             <p style={{ color: '#94a3b8', lineHeight: 1.85, fontSize: 16 }}>
-              I specialise in{' '}
-              <strong style={{ color: '#a855f7' }}>Solidity smart contracts</strong>,
-              React-based Web3 frontends, and DeFi integrations. I write clean, well-tested
-              code with a relentless focus on security and UX.
+                Today I bring both worlds together — the engineering discipline of a
+                seasoned developer and the on-chain intuition of a{' '}
+                <strong style={{ color: '#a855f7' }}>dedicated Web3 builder</strong>.
+                Clean contracts. Secure code. Frontends people actually enjoy using.
             </p>
 
             {/* Divider */}
@@ -63,10 +63,10 @@ export default function About() {
               </p>
               <ul className="space-y-2">
                 {[
+                  '🔁 Software engineer turned Web3 builder',
                   '🌍 Based in Nigeria — working globally',
-                  '📚 Currently exploring ERC-4337 & AA wallets',
+                  '📚 Currently exploring ERC-4337 & account abstraction',
                   '🎯 Open to freelance & full-time roles',
-                  '☕ Powered by coffee and on-chain dreams',
                 ].map((fact) => (
                   <li
                     key={fact}
