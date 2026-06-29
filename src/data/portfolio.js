@@ -12,7 +12,7 @@ export const personal = {
   email: 'ogbonna1109@gamil.com',        
 
   //My profile pic
-  profileImage: '/profile.jpg.jpeg',
+  profileImage: './profile.jpg.jpeg',
 
   // Social links — replace USERNAME / NUMBER
   social: {
