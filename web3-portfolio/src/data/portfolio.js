@@ -3,49 +3,49 @@
 // ============================================================
 
 export const personal = {
-  name: 'Henry Tochi',         
-  handle: 'HenryWeb3Dev',         
+  name: 'Henry Tochi',
+  handle: 'HenryWeb3Dev',
   title: 'Web3 Developer · Smart Contract Engineer · Full Stack Blockchain Builder',
   tagline: 'I build secure decentralised applications, smart contracts, and modern Web3 experiences that push the boundaries of what\'s possible on-chain.',
   location: 'Nigeria 🇳🇬',
   available: true,
-  email: 'ogbonna1109@gamil.com',        
+  email: 'ogbonna1109@gamil.com',
 
   //My profile pic
   profileImage: '/profile.jpg.jpeg',
 
   // Social links — replace USERNAME / NUMBER
   social: {
-    github:    'https://github.com/ogbonna1109',
-    linkedin:  'https://linkedin.com/in/USERNAME',
-    twitter:   'https://x.com/HenryWeb3Dev',
+    github: 'https://github.com/ogbonna1109',
+    linkedin: 'https://www.linkedin.com/in/ogbonna-henry-a87683254/',
+    twitter: 'https://x.com/HenryWeb3Dev',
     instagram: 'https://instagram.com/henry_tochi',
-    whatsapp:  'https://wa.me/+2349063231247',
+    whatsapp: 'https://wa.me/+2349063231247',
   },
 
   // Resume PDF — drop resume.pdf in /public/ and uncomment below
   resumeUrl: null, // '/resume.pdf',
 
   stats: [
-    { value: '1+',  label: 'Years Experience' },
+    { value: '1+', label: 'Years Experience' },
     { value: '10+', label: 'Projects Built' },
-    { value: '5+',  label: 'Clients Served' },
+    { value: '5+', label: 'Clients Served' },
   ],
 }
 
 export const skills = [
-  { name: 'React',       icon: '⚛️',  level: 90 },
-  { name: 'JavaScript',  icon: '🟡',  level: 88 },
-  { name: 'Solidity',    icon: '💎',  level: 85 },
-  { name: 'Ethereum',    icon: '🔷',  level: 82 },
-  { name: 'TypeScript',  icon: '📘',  level: 78 },
-  { name: 'Node.js',     icon: '🟢',  level: 78 },
-  { name: 'Tailwind CSS',icon: '🎨',  level: 90 },
-  { name: 'Git',         icon: '🔀',  level: 85 },
-  { name: 'Hardhat',     icon: '⛏️',  level: 80 },
-  { name: 'Ethers.js',   icon: '🔌',  level: 83 },
-  { name: 'Web3.js',     icon: '🌐',  level: 80 },
-  { name: 'IPFS',        icon: '📦',  level: 72 },
+  { name: 'React', icon: '⚛️', level: 90 },
+  { name: 'JavaScript', icon: '🟡', level: 88 },
+  { name: 'Solidity', icon: '💎', level: 85 },
+  { name: 'Ethereum', icon: '🔷', level: 82 },
+  { name: 'TypeScript', icon: '📘', level: 78 },
+  { name: 'Node.js', icon: '🟢', level: 78 },
+  { name: 'Tailwind CSS', icon: '🎨', level: 90 },
+  { name: 'Git', icon: '🔀', level: 85 },
+  { name: 'Hardhat', icon: '⛏️', level: 80 },
+  { name: 'Ethers.js', icon: '🔌', level: 83 },
+  { name: 'Web3.js', icon: '🌐', level: 80 },
+  { name: 'IPFS', icon: '📦', level: 72 },
 ]
 
 export const timeline = [
@@ -139,11 +139,11 @@ export const projects = [
 ]
 
 export const stack = {
-  Frontend:  ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+  Frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
   Blockchain: ['Ethereum', 'Polygon', 'Base', 'Solana'],
-  Contracts:  ['Solidity', 'Hardhat', 'Foundry', 'OpenZeppelin'],
-  Libraries:  ['Ethers.js', 'Wagmi', 'Web3.js', 'Viem'],
-  Storage:    ['IPFS', 'Arweave', 'The Graph'],
+  Contracts: ['Solidity', 'Hardhat', 'Foundry', 'OpenZeppelin'],
+  Libraries: ['Ethers.js', 'Wagmi', 'Web3.js', 'Viem'],
+  Storage: ['IPFS', 'Arweave', 'The Graph'],
 }
 
 export const services = [

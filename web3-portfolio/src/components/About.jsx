@@ -41,16 +41,16 @@ export default function About() {
               blockchain, and everything changed.
             </p>
             <p style={{ color: '#94a3b8', lineHeight: 1.85, fontSize: 16 }}>
-                I moved into Web3 because I believe decentralisation is the most significant
-                shift in software since the internet itself. The idea that code can replace
-                trust, that ownership can live on-chain, that anyone anywhere can participate
-                in open financial systems — that pulled me in completely.
+              I moved into Web3 because I believe decentralisation is the most significant
+              shift in software since the internet itself. The idea that code can replace
+              trust, that ownership can live on-chain, that anyone anywhere can participate
+              in open financial systems — that pulled me in completely.
             </p>
             <p style={{ color: '#94a3b8', lineHeight: 1.85, fontSize: 16 }}>
-                Today I bring both worlds together — the engineering discipline of a
-                seasoned developer and the on-chain intuition of a{' '}
-                <strong style={{ color: '#a855f7' }}>dedicated Web3 builder</strong>.
-                Clean contracts. Secure code. Frontends people actually enjoy using.
+              Today I bring both worlds together — the engineering discipline of a
+              seasoned developer and the on-chain intuition of a{' '}
+              <strong style={{ color: '#a855f7' }}>dedicated Web3 builder</strong>.
+              Clean contracts. Secure code. Frontends people actually enjoy using.
             </p>
 
             {/* Divider */}
