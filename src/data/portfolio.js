@@ -67,6 +67,12 @@ export const timeline = [
     description: 'Creating production-ready blockchain solutions for clients while exploring Layer 2 scaling, cross-chain bridges, and account abstraction (ERC-4337).',
     tags: ['Layer 2', 'ERC-4337', 'Cross-chain'],
   },
+  {
+    period: 'Present',
+    title: 'Building at Scale',
+    description: 'Creating production-ready blockchain solutions for clients while exploring Layer 2 scaling, cross-chain bridges, and account abstraction (ERC-4337).',
+    tags: ['Layer 2', 'ERC-4337', 'Cross-chain'],
+  },
 ]
 
 export const projects = [
